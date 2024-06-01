@@ -1,19 +1,19 @@
 ## Season 12 2023-06-21  
 
-### Avsnitt 85 
-V5 00:01:34:30 "Jag måste sälja lite strumpbyxor till bättre behövande hemmafruar." -h 
-V5 00:01:41:58 "Kalasbyxor!" -j 
-A4 00:05:05:18 "24:e våningen eller 38:e?" -r 
-A5 00:11:41:57 "24 läder" -j 
-A5 00:11:58:36 "Nått som ser ut som en platt ko!" -k 
-A5 00:13:05:45 "Naaj!" -c 
-A5 00:13:18:20 "De va trevligt å ha dig me i spelet." -j 
-A5 00:13:26:51 "De va en hemsk hund!" -c 
-V2 00:14:15:14 "Inte ens en kyckling ska jag inte klicka på!" -c 
-V2 00:14:52:24 "Du e min mentor vettu!" -c 
-V2 00:15:17:33 "YES e ju riktigt ettriga!" -k 
-V2 00:15:28:24 "Då ska jag skaffa mig en gös!" -c 
-V4 00:20:32:34 "Febe kan ju fixa!" -c 
+### Avsnitt 85  
+V5 00:01:34:30 "Jag måste sälja lite strumpbyxor till bättre behövande hemmafruar." -h  
+V5 00:01:41:58 "Kalasbyxor!" -j  
+A4 00:05:05:18 "24:e våningen eller 38:e?" -r  
+A5 00:11:41:57 "24 läder" -j  
+A5 00:11:58:36 "Nått som ser ut som en platt ko!" -k  
+A5 00:13:05:45 "Naaj!" -c  
+A5 00:13:18:20 "De va trevligt å ha dig me i spelet." -j  
+A5 00:13:26:51 "De va en hemsk hund!" -c  
+V2 00:14:15:14 "Inte ens en kyckling ska jag inte klicka på!" -c  
+V2 00:14:52:24 "Du e min mentor vettu!" -c  
+V2 00:15:17:33 "YES e ju riktigt ettriga!" -k  
+V2 00:15:28:24 "Då ska jag skaffa mig en gös!" -c  
+V4 00:20:32:34 "Febe kan ju fixa!" -c  
 
 ### Avsnitt 86
 A9 00:00:56:15 Fint ska de va! De e mitt motto! -r 
