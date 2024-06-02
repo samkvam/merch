@@ -1,6 +1,6 @@
 ## Session 17 - 2024-02-03   
 
-### Avsnitt XX16   
+### Avsnitt XX17   
 V3 00:02:22:09 Lite drama får det va! -r  
 V1 00:06:36:38 Va e de här, SJ eller? -j  
 V3 00:09:08:36 Lita på att Henrik alltid drar fel slutsats! -k 
