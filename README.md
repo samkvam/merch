@@ -1,1 +1,20 @@
-# merch
+# Repo for planning of Samkväm merchendice 
+
+## Project Ozone 3  
+* [Session 01](https://samkvam.github.io/merch/po3/session01)  
+* [Session 02](https://samkvam.github.io/merch/po3/session02)  
+* [Session 03](https://samkvam.github.io/merch/po3/session03)  
+* [Session 04](https://samkvam.github.io/merch/po3/session04)  
+* [Session 05](https://samkvam.github.io/merch/po3/session05)  
+* [Session 06](https://samkvam.github.io/merch/po3/session06)  
+* [Session 07](https://samkvam.github.io/merch/po3/session07)  
+* [Session 08](https://samkvam.github.io/merch/po3/session08)  
+* [Session 09](https://samkvam.github.io/merch/po3/session09)  
+* [Session 10](https://samkvam.github.io/merch/po3/session10)  
+* [Session 11](https://samkvam.github.io/merch/po3/session11)  
+* [Session 12](https://samkvam.github.io/merch/po3/session12)  
+* [Session 13](https://samkvam.github.io/merch/po3/session13)  
+* [Session 14](https://samkvam.github.io/merch/po3/session14)  
+* [Session 15](https://samkvam.github.io/merch/po3/session15)  
+* [Session 16](https://samkvam.github.io/merch/po3/session16)  
+* [Session 17](https://samkvam.github.io/merch/po3/session17)  
