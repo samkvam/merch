@@ -81,9 +81,23 @@ V1 00:17:26:02 Äsch! -j
 V2 00:20:24:22 När de regnar olja har entreprenören ingen hink! -j   
 
 ### Avsnitt 110  
-
+V4 00:03:08:34 Jag mördade just en ekorre! Den hade inte gjort nånting mot mig. -k  
+V4 00:03:40:26 Inga fula djur blev skadade i den här filmen! -r  
+V1 00:08:21:05 DU kan va en driva! -k  
+A5 00:10:34:55 Var gjorde jag av mina hinkar nånstans? -h  
+V2 00:10:45:41 Ständigt dessa hinkar! -j  
+V2 00:13:06:27 Ska vi käbbla tycker du? -j  
+V1 00:15:25:42 Jag kan va på avstånd, så kan Kenneth va förtrupp! -r  
+V1 00:15:44:06 Jag skall inga bossar möta! -k  
 
 ### Avsnitt 111  
-
+V4 00:03:08:34 Jag mördade just en ekorre! Den hade inte gjort nånting mot mig. -k  
+V4 00:03:40:26 Inga fula djur blev skadade i den här filmen! -r  
+V1 00:08:21:05 DU kan va en driva! -k  
+A5 00:10:34:55 Var gjorde jag av mina hinkar nånstans? -h  
+V2 00:10:45:41 Ständigt dessa hinkar! -j  
+V2 00:13:06:27 Ska vi käbbla tycker du? -j  
+V1 00:15:25:42 Jag kan va på avstånd, så kan Kenneth va förtrupp! -r  
+V1 00:15:44:06 Jag skall inga bossar möta! -k  
 
 
