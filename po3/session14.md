@@ -91,13 +91,16 @@ V1 00:15:25:42 Jag kan va på avstånd, så kan Kenneth va förtrupp! -r
 V1 00:15:44:06 Jag skall inga bossar möta! -k  
 
 ### Avsnitt 111  
-V4 00:03:08:34 Jag mördade just en ekorre! Den hade inte gjort nånting mot mig. -k  
-V4 00:03:40:26 Inga fula djur blev skadade i den här filmen! -r  
-V1 00:08:21:05 DU kan va en driva! -k  
-A5 00:10:34:55 Var gjorde jag av mina hinkar nånstans? -h  
-V2 00:10:45:41 Ständigt dessa hinkar! -j  
-V2 00:13:06:27 Ska vi käbbla tycker du? -j  
-V1 00:15:25:42 Jag kan va på avstånd, så kan Kenneth va förtrupp! -r  
-V1 00:15:44:06 Jag skall inga bossar möta! -k  
-
+V5 00:02:29:02 Kan inte du gå dit, Joel? -r  
+V5 00:03:12:14 Ja vill inte dö! -r  
+V5 00:05:14:10 Då GÅR Kenneth! -j  
+V4 00:09:37:30 Vi vill väl alltid ha lite Lava-Lava i vårt liv? -k  
+V3 00:13:58:48 Kenneths skrik är roligast, han vinner skriktävlingen! -j  
+V2 00:15:12:21 Du e så dålig Kenneth! -r  
+A5 00:23:10:57 Vi e ju professionella Minecraftspelare! -h  
+V3 00:25:24:25 249 meter kvar! -j  
+V3 00:25:37:15 Va en sämre version av dig själv! -k  
+V3 00:26:56:54 Spela Minecraft i Minecraft?! -h   
+V4 00:27:48:33 Ja hoppa två gånger. De va roligt. -r  
+V4 00:28:59:22 Då får man ju hicka å kan drunkna! -h  
 
