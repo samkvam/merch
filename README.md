@@ -16,5 +16,6 @@
 * [Session 13](https://samkvam.github.io/merch/po3/session13)  
 * [Session 14](https://samkvam.github.io/merch/po3/session14)  
 * [Session 15](https://samkvam.github.io/merch/po3/session15)  
-* [Session 16](https://samkvam.github.io/merch/po3/session16)  
+* [Session 16](https://samkvam.github.io/merch/po3/session_16_2024-01-07-notes)  
 * [Session 17](https://samkvam.github.io/merch/po3/session17)  
+* [Session 20](https://samkvam.github.io/merch/po3/session_20_2024-08-24-notes)  
